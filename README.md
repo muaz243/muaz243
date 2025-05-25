@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name | Portfolio</title>
+  <title> MUAZ | Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-900 font-sans">
@@ -22,13 +22,13 @@
 
   <!-- Hero -->
   <section class="text-center py-20 bg-gradient-to-r from-blue-500 to-purple-500 text-white">
-    <h2 class="text-4xl font-bold mb-4">Hi, I'm Your Name</h2>
-    <p class="text-xl">Graphic Designer & Web Developer</p>
+    <h2> class="text-4xl font-bold mb-4">Hi, I'm muaz</h2>
+    <p class="text-xl">Graphic Designer, video editior & Web Developer</p>
   </section>
 
   <!-- About -->
   <section id="about" class="py-16 px-4 max-w-3xl mx-auto">
-    <h3 class="text-2xl font-bold mb-4">About Me</h3>
+    <h3 class="i am grade 12 student i am working in this nech still now if you want to learn about graphics design video editing and webdevelopment come here and register free -2xl font-bold mb-4">About Me</h3>
     <p>
       I'm a passionate designer and developer specializing in clean, functional websites, engaging motion graphics, and branding. With experience in web development, video editing, and logo animation, I create impactful digital experiences.
     </p>
@@ -62,9 +62,9 @@
   <section id="contact" class="py-16 px-4 max-w-3xl mx-auto">
     <h3 class="text-2xl font-bold mb-4">Contact Me</h3>
     <form action="https://formspree.io/f/yourformid" method="POST" class="space-y-4">
-      <input type="text" name="name" placeholder="Your Name" required class="w-full p-2 border rounded" />
-      <input type="email" name="email" placeholder="Your Email" required class="w-full p-2 border rounded" />
-      <textarea name="message" rows="5" placeholder="Your Message" required class="w-full p-2 border rounded"></textarea>
+      <input type="text" name="name" placeholder="muaz" required class="w-full p-2 border rounded" />
+      <input type="email" name="email" placeholder="muazasmer17@gmail.com" required class="w-full p-2 border rounded" />
+      <textarea name="message" rows="5" placeholder="0969200256" required class="w-full p-2 border rounded"></textarea>
       <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Send</button>
     </form>
   </section>
